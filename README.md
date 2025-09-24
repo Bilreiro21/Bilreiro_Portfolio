@@ -1,44 +1,38 @@
-# vCard - Personal portfolio
+# 🌐 Bilreiro's Developer Portfolio
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+Welcome to my personal portfolio!  
+This website is my space to share who I am, showcase the projects I’ve worked on, highlight my skills, and provide ways to connect with me.  
+Built with modern web technologies, this portfolio is designed to be simple, responsive, and professional.
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+---
 
-## Demo
+## ✨ Features
+- 🧑‍💻 **About Me** — a short introduction about who I am and what I do.  
+- 📂 **Projects** — selected work with descriptions, technologies, and links.  
+- 🛠️ **Skills** — a summary of my technical stack and expertise.  
+- 📬 **Contact** — ways to reach me easily.  
+- 🚀 **Deployed Online** — accessible from anywhere.  
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+---
 
-## Prerequisites
+## 🚀 Tech Stack
+- **Languages:** HTML, CSS, JavaScript  
+- **Styling:** CSS / Bootstrap / Tailwind *(adjust depending on your choice)*  
+- **Deployment:** GitHub Pages 
 
-Before you begin, ensure you have met the following requirements:
+---
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+## ⚙️ Getting Started
 
-## Installing vCard
-
-To install **vCard**, follow these steps:
-
-Linux and macOS:
-
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
-
-Windows:
+If you’d like to run this project locally:
 
 ```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+# Clone the repository
+git clone https://github.com/Bilreiro21/Bilreiro_Portfolio.git
+cd Bilreiro_Portfolio
 
-## Contact
+# Install dependencies
+npm install
 
-If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_).
-
-## License
-
-MIT
+# Start the development server
+npm run dev
